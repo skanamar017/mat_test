@@ -1,0 +1,40 @@
+OPERATIONS,,,,VAS (VALUE ADDED SERVICE),,,,,,
+INDIRECT LABOR,,,,VAS  ,,,,DIRECT TO CONSUMER,,
+Traffic,,159300200,,VAS HOME,,159912100,,DTC ,,159911234
+Yard Driver,,159300206,,LTO/CTO - Putaway & Production,,159912131,,DTC - Inventory / Wave Plan,,159911236
+Inventory Control,,159300214,,CTO - Fulfillment,,159912133,,DTC Returns,,159911237
+Maintenance,,159300600,,LTO/CTO - IPT,,159912134,,DTC - LEAD,,159911238
+Custodial,,159300632,,Price Ticket,,159912136,,,,
+,,,,Amazon Prep,,159912137,,AMERICAN GIRL,,
+RECEIVING & WAREHOUSING,,,,VAS - LEAD,,159912139,,American Girl B2B,,159911800
+CTO - Putaway,,159911101,,VAS - Mattel Trainer,,159200200,,American Girl - Inventory,,159911833
+CTO - Re-Warehousing,,159911102,,VAS - Spotter,,159200201,,American Girl Returns,,159911834
+CTO - Receiving,,159911132,,,,,,American Girl - LEAD,,159911835
+Training - Mattel Trainer,,159911133,,LINE PRODUCTION,,,,,,
+Material Handling,,159911134,,CLIP,,159200202,,MISC,,
+Warehouse - Location Audit,,159911135,,CDSP,,159200203,,Customer Service - Damages,,159913100
+Checker,,159911136,,PP,,159200204,,,,
+Warehouse - LEAD,,159911137,,DBHP,,159200205,,OFFSITE - FISHER BUILDING,,
+Special Projects,,159911138,,DBIN,,159200206,,Offsite - All,,159911233
+Receiving - LEAD,,159911139,,QPLT,,159200207,,,,
+,,,,HPLT,,159200208,,REWORK,,
+SHIPPING,,,,PLT,,159200209,,Rework,,159914132
+CTO - Outbound,,159911332,,ECAP,,159200210,,Rework,,159914133
+CTO - Hot Lane / Pick Zone,,159911333,,9BIN,,159200211,,Rework,,159914134
+Labeler,,159911334,,STKB,,159200212,,Rework,,159914135
+Checker,,159911336,,RLRK,,159200213,,,,
+Training - Mattel Trainer,,159911338,,OS,,159200214,,,,
+Shipping - LEAD,,159911339,,AST,,159200215,,,,
+,,,,STD,,159200216,,,,
+,,,,WRAP,,159200217,,,,
+,,,,BUNDLE,,159200218,,,,
+,,,,LBLM,,159200219,,,,
+,,,,LBLT,,159200220,,,,
+,,,,SP,,159200221,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
